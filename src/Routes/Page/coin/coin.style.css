@@ -1,0 +1,36 @@
+.card-1{
+    display: flex;
+    flex-wrap: wrap !important;
+    overflow: hidden !important;
+    align-items: center;
+    text-align: center;
+    padding-left:15%;
+    padding-right:15%;
+   
+}
+li{
+    list-style: none;
+    width:100px;
+    height: 150px;
+    margin: 0%;
+    margin-bottom:3%;
+    border-radius: 10px;
+    padding:8px;
+    background-color: rgb(242, 242, 244);
+}
+li:hover{
+    box-shadow: 0px 0px 0px 2px #eee;
+}
+ul{
+    list-style: none;
+    gap: 20px;
+}
+.top-section{
+  
+    height: 300px;
+}
+h1{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 30px;
+}

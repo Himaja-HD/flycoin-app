@@ -1,0 +1,18 @@
+{
+  "signup": [
+    {
+      "id": "1",
+      "name": "A akhila",
+      "email": "akhila.123@gmail.com",
+      "phone": "9001007753",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "B akhil",
+      "email": "akhil.b2@gmail.com",
+      "phone": "9001005803",
+      "password": "0986fg"
+    }
+  ]
+}
